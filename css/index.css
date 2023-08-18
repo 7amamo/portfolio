@@ -297,7 +297,7 @@ ul{
 }
 .main-container .section .row .content p{
     color: var(--text-black-700);
-    max-width: 500px;
+    max-width: 300px;
     margin-bottom: 70px;
 }
 .btn{
