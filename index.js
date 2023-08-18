@@ -58,6 +58,8 @@ arrayofli.forEach(function (a) {
         })
         this.classList.add("active")
         showsection(this)
+         mainaside.classList.toggle("open")
+        navtoggler.classList.toggle("open")
     })
 })
 
